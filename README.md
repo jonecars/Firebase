@@ -4,7 +4,7 @@ You are then able to add products and manage their information.
 
 I wrote this software so that I could learn how to use cloud databases in my future python projects.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9i6hJB_nhnM)
 
 # Cloud Database
 Made using cloud firebase from google.
